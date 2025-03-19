@@ -1,0 +1,248 @@
+{
+    "CSE": [
+      {
+        "name": "Rahul Sharma",
+        "batch": "2019",
+        "current_role": "Software Engineer",
+        "company": "Google",
+        "email": "rahul.sharma@example.com",
+        "linkedin": "https://www.linkedin.com/in/rahulsharma"
+      },
+      {
+        "name": "Priya Verma",
+        "batch": "2020",
+        "current_role": "Data Scientist",
+        "company": "Microsoft",
+        "email": "priya.verma@example.com"
+      },
+      {
+        "name": "Vikas Malhotra",
+        "batch": "2018",
+        "current_role": "Cybersecurity Analyst",
+        "company": "Amazon",
+        "email": "vikas.malhotra@example.com"
+      },
+      {
+        "name": "Sonia Mehta",
+        "batch": "2017",
+        "current_role": "Cloud Architect",
+        "company": "IBM",
+        "email": "sonia.mehta@example.com",
+        "linkedin": "https://www.linkedin.com/in/soniamehta"
+      },
+      {
+        "name": "Amit Patel",
+        "batch": "2021",
+        "current_role": "Software Developer",
+        "company": "Meta",
+        "email": "amit.patel@example.com"
+      },
+      {
+        "name": "Rohit Bansal",
+        "batch": "2016",
+        "current_role": "Systems Engineer",
+        "company": "Cisco",
+        "email": "rohit.bansal@example.com"
+      },
+      {
+        "name": "Megha Sinha",
+        "batch": "2015",
+        "current_role": "DevOps Engineer",
+        "company": "Red Hat",
+        "email": "megha.sinha@example.com"
+      },
+      {
+        "name": "Varun Kapoor",
+        "batch": "2022",
+        "current_role": "Software Engineer",
+        "company": "Apple",
+        "email": "varun.kapoor@example.com"
+      },
+      {
+        "name": "Simran Kaur",
+        "batch": "2018",
+        "current_role": "Full Stack Developer",
+        "company": "Oracle",
+        "email": "simran.kaur@example.com"
+      },
+      {
+        "name": "Neeraj Chawla",
+        "batch": "2019",
+        "current_role": "Backend Engineer",
+        "company": "Uber",
+        "email": "neeraj.chawla@example.com"
+      },
+      {
+        "name": "Ankita Das",
+        "batch": "2017",
+        "current_role": "AI Engineer",
+        "company": "OpenAI",
+        "email": "ankita.das@example.com"
+      },
+      {
+        "name": "Kunal Mehta",
+        "batch": "2020",
+        "current_role": "Security Engineer",
+        "company": "Palo Alto Networks",
+        "email": "kunal.mehta@example.com"
+      },
+      {
+        "name": "Arjun Sharma",
+        "batch": "2016",
+        "current_role": "Cloud Security Analyst",
+        "company": "Microsoft",
+        "email": "arjun.sharma@example.com"
+      },
+      {
+        "name": "Nisha Nair",
+        "batch": "2015",
+        "current_role": "Technical Lead",
+        "company": "Adobe",
+        "email": "nisha.nair@example.com"
+      },
+      {
+        "name": "Suresh Reddy",
+        "batch": "2018",
+        "current_role": "Big Data Engineer",
+        "company": "Amazon Web Services",
+        "email": "suresh.reddy@example.com"
+      },
+      {
+        "name": "Alok Jain",
+        "batch": "2019",
+        "current_role": "Frontend Engineer",
+        "company": "Netflix",
+        "email": "alok.jain@example.com"
+      },
+      {
+        "name": "Pooja Iyer",
+        "batch": "2021",
+        "current_role": "Software Consultant",
+        "company": "Capgemini",
+        "email": "pooja.iyer@example.com"
+      },
+      {
+        "name": "Manish Kumar",
+        "batch": "2022",
+        "current_role": "Blockchain Developer",
+        "company": "Ethereum Foundation",
+        "email": "manish.kumar@example.com"
+      },
+      {
+        "name": "Divya Gupta",
+        "batch": "2017",
+        "current_role": "Data Engineer",
+        "company": "Snowflake",
+        "email": "divya.gupta@example.com"
+      },
+      {
+        "name": "Vivek Srivastava",
+        "batch": "2018",
+        "current_role": "Software Architect",
+        "company": "VMware",
+        "email": "vivek.srivastava@example.com"
+      }
+    ],
+    "AI&DS": [
+      {
+        "name": "Arjun Reddy",
+        "batch": "2021",
+        "current_role": "AI Researcher",
+        "company": "OpenAI",
+        "email": "arjun.reddy@example.com",
+        "linkedin": "https://www.linkedin.com/in/arjunreddy"
+      },
+      {
+        "name": "Neha Iyer",
+        "batch": "2022",
+        "current_role": "Machine Learning Engineer",
+        "company": "Tesla",
+        "email": "neha.iyer@example.com"
+      },
+      {
+        "name": "Karthik Sinha",
+        "batch": "2020",
+        "current_role": "Deep Learning Engineer",
+        "company": "NVIDIA",
+        "email": "karthik.sinha@example.com"
+      },
+      {
+        "name": "Pallavi Nair",
+        "batch": "2019",
+        "current_role": "AI Product Manager",
+        "company": "Google",
+        "email": "pallavi.nair@example.com"
+      },
+      {
+        "name": "Rajat Tandon",
+        "batch": "2018",
+        "current_role": "NLP Scientist",
+        "company": "Amazon Alexa",
+        "email": "rajat.tandon@example.com"
+      },
+      {
+        "name": "Tanvi Sharma",
+        "batch": "2021",
+        "current_role": "AI Developer",
+        "company": "IBM Watson",
+        "email": "tanvi.sharma@example.com"
+      },
+      {
+        "name": "Siddharth Menon",
+        "batch": "2022",
+        "current_role": "AI Research Engineer",
+        "company": "DeepMind",
+        "email": "siddharth.menon@example.com"
+      },
+      {
+        "name": "Madhuri Rajan",
+        "batch": "2020",
+        "current_role": "Computer Vision Engineer",
+        "company": "Intel",
+        "email": "madhuri.rajan@example.com"
+      },
+      {
+        "name": "Vikram Joshi",
+        "batch": "2017",
+        "current_role": "AI Solutions Architect",
+        "company": "Microsoft",
+        "email": "vikram.joshi@example.com"
+      },
+      {
+        "name": "Rekha Das",
+        "batch": "2019",
+        "current_role": "AI Ethics Researcher",
+        "company": "Stanford AI Lab",
+        "email": "rekha.das@example.com"
+      },
+      {
+        "name": "Rohan Kapoor",
+        "batch": "2018",
+        "current_role": "AI Systems Engineer",
+        "company": "Apple",
+        "email": "rohan.kapoor@example.com"
+      },
+      {
+        "name": "Anusha Singh",
+        "batch": "2021",
+        "current_role": "AI Data Scientist",
+        "company": "Facebook AI",
+        "email": "anusha.singh@example.com"
+      },
+      {
+        "name": "Saket Rane",
+        "batch": "2022",
+        "current_role": "ML Research Intern",
+        "company": "Adobe Research",
+        "email": "saket.rane@example.com"
+      },
+      {
+        "name": "Rajesh Kumar",
+        "batch": "2017",
+        "current_role": "AI Consultant",
+        "company": "Accenture AI Labs",
+        "email": "rajesh.kumar@example.com"
+      }
+    ]
+  }
+  
